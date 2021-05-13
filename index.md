@@ -9,17 +9,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Transfer student 1
+## Transfer student 2
+### Transfer student 3
 
-- Bulleted
-- List
+- Transfer student
+- Transfer student
 
-1. Numbered
-2. List
+1. Transfer student
+2. Transfer student
 
-**Bold** and _Italic_ and `Code` text
+**Transfer student** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
