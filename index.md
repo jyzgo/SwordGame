@@ -14,6 +14,7 @@
 ### Transfer student 3
 
 - Transfer student
+[logo]: https://play-lh.googleusercontent.com/JG_EgVftSodWsT6KeSJoe7kP-h9EqReu0Ld1oflMbbiZ-NL633OcsUPxUpPRRdmc902_=w1920-h870-rw
 - Transfer student
 
 1. Transfer student
