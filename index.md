@@ -2,11 +2,14 @@
 
 
 Transfer Student
+
 ![icon](https://play-lh.googleusercontent.com/IiL5DGCLoFuY5bKdSuDmuV-QPfh8f-GO7yv9nE1t_sFas_4k29wJYJnWWuqQIBfJSbZW=s180-rw)
 
-![logo1](https://play-lh.googleusercontent.com/tUUcSrB9Edpf2-XFqzclxn83bFQviMYRNw4VF8vgmR4dUc0t2JiHyAh2bomV-5j6dA=w1920-h870-rw)
+[Download from Google Play](https://play.google.com/store/apps/details?id=com.AdeveGames.TransferStudent)
 
 ![logo](https://play-lh.googleusercontent.com/JG_EgVftSodWsT6KeSJoe7kP-h9EqReu0Ld1oflMbbiZ-NL633OcsUPxUpPRRdmc902_=w1920-h870-rw)
+
+![logo1](https://play-lh.googleusercontent.com/tUUcSrB9Edpf2-XFqzclxn83bFQviMYRNw4VF8vgmR4dUc0t2JiHyAh2bomV-5j6dA=w1920-h870-rw)
 ### Transfer student
 
 
