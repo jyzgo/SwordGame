@@ -46,9 +46,11 @@ Once you start you will want to keep solving the upcoming puzzles. This is the b
 ![logo2](https://play-lh.googleusercontent.com/sv0eIo3v5mkUCm-Vj0au1WiFYVJv1RLpZSNTjtmQlxC1PTn5wIdk1qoFPFHTWDXAW6kb=w1920-h870-rw)
 
 
-# You wake up in a mysterious laboratory surrounded by zombies. You don't know what's wrong with you
-# who are you? Where are you from?
-# Find a way out from this zombie laboratory.
+## Story
+
+ You wake up in a mysterious laboratory surrounded by zombies. You don't know what's wrong with you
+ who are you? Where are you from?
+ Find a way out from this zombie laboratory.
 
 ### Support or Contact
 # jyzgo0125@gmail.com
